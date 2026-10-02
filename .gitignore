@@ -47,10 +47,13 @@ next-env.d.ts
 AGENTS.md
 CLAUDE.md
 DESIGN.md
-README.md
 .agents/
 
 # local tooling
 skills-lock.json
 .claude/settings.local.json
 test-results/
+
+# AI-assistant config (kept local)
+.claude/
+.trae/
